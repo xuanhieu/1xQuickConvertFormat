@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: License, payment or refund
+    url: mailto:mail@xuanhieu.org
+    about: Questions about keys, invoices or moving to a new Mac. / Bản quyền, thanh toán, hoàn tiền.
+  - name: Security report
+    url: https://github.com/xuanhieu/1xQuickConvertFormat/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately. / Báo lỗ hổng bảo mật riêng tư.

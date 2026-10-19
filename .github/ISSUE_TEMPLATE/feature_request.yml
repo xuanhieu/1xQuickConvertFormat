@@ -1,0 +1,15 @@
+name: Feature request / Đề xuất tính năng
+description: A format or option you would like. / Định dạng hoặc tùy chọn bạn muốn có.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like? / Bạn muốn có gì?
+      placeholder: "Convert EPUB to PDF / Chuyển EPUB sang PDF"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does it matter to you? / Vì sao cần?
