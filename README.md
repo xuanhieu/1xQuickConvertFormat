@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/xuanhieu/1xQuickConvertFormat/releases/latest"><strong>Download for macOS</strong></a> ·
-  <a href="https://xuanhieu.org/1xquickconvertformat/">Website</a> ·
+  <a href="https://1x.xuanhieu.org/qcf/en">Website</a> ·
   <a href="README.vi.md">Tiếng Việt</a>
 </p>
 
@@ -51,7 +51,7 @@ Every plan is for **one Mac**.
 | | Free | Personal · 1 year | Personal · Lifetime |
 |---|---|---|---|
 | Price | free | 199.000đ or US$8.99 / year | 479.000đ or US$19.99 once |
-| How to get it | an invite code from a friend, or join our Telegram channel | buy at [1x.xuanhieu.org](https://1x.xuanhieu.org/buy) | buy at [1x.xuanhieu.org](https://1x.xuanhieu.org/buy) |
+| How to get it | an invite code from a friend, or get one at [1x.xuanhieu.org/qcf/free](https://1x.xuanhieu.org/qcf/free?lang=en) | buy at [1x.xuanhieu.org](https://1x.xuanhieu.org/qcf/buy?lang=en) | buy at [1x.xuanhieu.org](https://1x.xuanhieu.org/qcf/buy?lang=en) |
 | Images, text, data and code | ✓ | ✓ | ✓ |
 | Video, audio, Office and PDF | | ✓ | ✓ |
 | Many files at once | | ✓ | ✓ |

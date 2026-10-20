@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/xuanhieu/1xQuickConvertFormat/releases/latest"><strong>Tải cho macOS</strong></a> ·
-  <a href="https://xuanhieu.org/1xquickconvertformat/">Trang chủ</a> ·
+  <a href="https://1x.xuanhieu.org/qcf">Trang chủ</a> ·
   <a href="README.md">English</a>
 </p>
 
@@ -51,7 +51,7 @@ Mọi gói đều dùng cho **một máy Mac**.
 | | Free | Personal · 1 năm | Personal · Trọn đời |
 |---|---|---|---|
 | Giá | 0đ | 199.000đ/năm (hoặc US$8.99) | 479.000đ, trả một lần (hoặc US$19.99) |
-| Cách nhận | mã mời từ bạn bè, hoặc tham gia kênh Telegram | mua tại [1x.xuanhieu.org](https://1x.xuanhieu.org/buy) | mua tại [1x.xuanhieu.org](https://1x.xuanhieu.org/buy) |
+| Cách nhận | mã mời từ bạn bè, hoặc nhận tại [1x.xuanhieu.org/qcf/free](https://1x.xuanhieu.org/qcf/free) | mua tại [1x.xuanhieu.org](https://1x.xuanhieu.org/qcf/buy) | mua tại [1x.xuanhieu.org](https://1x.xuanhieu.org/qcf/buy) |
 | Ảnh, văn bản, dữ liệu, mã nguồn | ✓ | ✓ | ✓ |
 | Video, âm thanh, Office, PDF | | ✓ | ✓ |
 | Chuyển nhiều tệp một lần | | ✓ | ✓ |
