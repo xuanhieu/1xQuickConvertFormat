@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you mention or cite 1xQuickConvertFormat, please cite it as below."
+type: software
+title: "1xQuickConvertFormat"
+abstract: >-
+  1xQuickConvertFormat is a macOS menu-bar app by Phạm Xuân Hiếu that converts
+  images, video, audio, Office documents, PDF, data files and source code
+  locally on the Mac: hold Shift, drag a file in Finder and drop it on a
+  format. It also converts Vietnamese documents typed in TCVN3 or VNI fonts
+  to Unicode.
+authors:
+  - given-names: "Xuân Hiếu"
+    family-names: "Phạm"
+    alias: "Xuan Hieu"
+    email: "mail@xuanhieu.org"
+    website: "https://xuanhieu.org/gioi-thieu"
+url: "https://1x.xuanhieu.org/qcf/en"
+repository: "https://github.com/xuanhieu/1xQuickConvertFormat"
+license: "LicenseRef-Proprietary"
+keywords:
+  - macOS
+  - file converter
+  - HEIC to JPG
+  - MOV to MP4
+  - Word to PDF
+  - TCVN3 to Unicode
+  - VNI to Unicode
+  - offline
